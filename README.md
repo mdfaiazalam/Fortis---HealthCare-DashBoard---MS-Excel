@@ -27,3 +27,10 @@ This Fortis Healthcare Dashboard provides insights into:
 ## 🎥 Learn How This Dashboard Was Built!
 * 📌 Watch the Full Tutorial on YouTube: https://www.youtube.com/watch?v=L9OQrTqLJ00
 * 🎥 Step-by-step guide on building an interactive healthcare dashboard in Excel!
+  ## 📌 Connect With Me!
+* 💡 Follow for More Data Analytics Projects & Insights!
+* 🔔 LinkedIn: 
+* 🔔 YouTube: [[Insert YouTube Channel](https://www.youtube.com/watch?v=L9OQrTqLJ00)]
+
+# 📌 Hashtags:
+#Excel #DataAnalytics #HealthcareDashboard #BusinessIntelligence #ExcelDashboard #DataVisualization
