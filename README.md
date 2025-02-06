@@ -10,3 +10,5 @@ This Fortis Healthcare Dashboard provides insights into:
 - ✅ **Diagnosis Trends (Flu, Malaria, Typhoid, etc.) 🦠**
 - ✅ **Billing** & **Insurance** Trends by **Medical Tests 📈**
 - ✅ **Patient Feedback Count 📝**
+## 📸 **Dashboard Preview**
+![Fortis Healthcare Dashboard](Insert Image Link Here)
