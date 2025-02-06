@@ -3,10 +3,10 @@
 
 ## 📌 Project Overview
 This Fortis Healthcare Dashboard provides insights into:
-- ✅ Total Billing Amount 💰
-- ✅ Total Patients Admitted 🏥
-- ✅ Total Insurance Claims Processed 🏦
-- ✅ Bed Occupancy (ICU, General, Private) 🛏
-- ✅ Diagnosis Trends (Flu, Malaria, Typhoid, etc.) 🦠
-- ✅ Billing & Insurance Trends by Medical Tests 📈
-- ✅ Patient Feedback Count 📝
+✅ **Total Billing Amount 💰
+✅ **Total Patients Admitted 🏥
+✅ **Total Insurance Claims Processed 🏦
+✅ **Bed Occupancy (ICU, General, Private) 🛏
+✅ **Diagnosis Trends (Flu, Malaria, Typhoid, etc.) 🦠
+✅ **Billing & Insurance Trends by Medical Tests 📈
+✅ **Patient Feedback Count 📝
