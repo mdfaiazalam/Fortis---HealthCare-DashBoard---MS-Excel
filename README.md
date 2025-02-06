@@ -30,7 +30,7 @@ This Fortis Healthcare Dashboard provides insights into:
   ## 📌 Connect With Me!
 * 💡 Follow for More Data Analytics Projects & Insights!
 * 🔔 LinkedIn: 
-* 🔔 YouTube: [(https://www.youtube.com/watch?v=L9OQrTqLJ00)]
+* 🔔 YouTube: https://www.youtube.com/watch?v=L9OQrTqLJ00
 
 # 📌 Hashtags:
 #Excel #DataAnalytics #HealthcareDashboard #BusinessIntelligence #ExcelDashboard #DataVisualization
