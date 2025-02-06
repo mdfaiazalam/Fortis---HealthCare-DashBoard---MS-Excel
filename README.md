@@ -14,8 +14,8 @@ This Fortis Healthcare Dashboard provides insights into:
 ![Fortis Healthcare Dashboard]: https://bit.ly/ExcelDashBoard
 
 ## 🔍 **Key Features & Insights**
-🔹 **Billing & Insurance Analysis: Understand hospital revenue trends and insurance coverage.**
-🔹 **Diagnosis Breakdown: Identify which diseases contribute to the highest patient count.**
-🔹 **Bed Occupancy Insights: Optimize resource allocation across ICU, General, and Private wards.**
+ **🔹 Billing & Insurance Analysis: Understand hospital revenue trends and insurance coverage.**
+ **🔹 Diagnosis Breakdown: Identify which diseases contribute to the highest patient count.**
+ 🔹 **Bed Occupancy Insights: Optimize resource allocation across ICU, General, and Private wards.**
 🔹 **Interactive Filters: Users can analyze data by doctor, month, and diagnosis.**
 🔹 **Excel Functions Used: Pivot Tables, Slicers, Conditional Formatting, Data Validation.**
