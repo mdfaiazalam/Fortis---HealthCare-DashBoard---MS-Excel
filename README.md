@@ -24,3 +24,6 @@ This Fortis Healthcare Dashboard provides insights into:
 - ✅ **Power Query – Data Transformation & Cleaning**
 - ✅ **Pivot Charts & Slicers – Interactive Analysis**
 - ✅ **Data Validation & Conditional Formatting – Enhanced Usability**
+## 🎥 Learn How This Dashboard Was Built!
+* 📌 Watch the Full Tutorial on YouTube: https://www.youtube.com/watch?v=L9OQrTqLJ00
+* 🎥 Step-by-step guide on building an interactive healthcare dashboard in Excel!
