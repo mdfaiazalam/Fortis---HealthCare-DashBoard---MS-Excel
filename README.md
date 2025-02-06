@@ -19,3 +19,8 @@ This Fortis Healthcare Dashboard provides insights into:
  * Bed Occupancy Insights: Optimize resource allocation across ICU, General, and Private wards.
  * Interactive Filters: Users can analyze data by doctor, month, and diagnosis.
  * Excel Functions Used: Pivot Tables, Slicers, Conditional Formatting, Data Validation.
+## 🛠 Tools & Technologies Used
+- ✅ **Microsoft Excel – Data Cleaning, Pivot Tables, Charts**
+- ✅ **Power Query – Data Transformation & Cleaning**
+- ✅ **Pivot Charts & Slicers – Interactive Analysis**
+- ✅ **Data Validation & Conditional Formatting – Enhanced Usability**
