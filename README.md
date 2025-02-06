@@ -11,4 +11,4 @@ This Fortis Healthcare Dashboard provides insights into:
 - ✅ **Billing** & **Insurance** Trends by **Medical Tests 📈**
 - ✅ **Patient Feedback Count 📝**
 ## 📸 **Dashboard Preview**
-![Fortis Healthcare Dashboard](Insert Image Link Here)
+![Fortis Healthcare Dashboard]: https://bit.ly/ExcelDashBoard
